@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class pong implements ActionListener, KeyListener, MouseMotionListener{
-	//Properties
+	//Properties 
 	JFrame Pong;
 	//This builds the AnimationPanel3 object
 	//This comes from another program
